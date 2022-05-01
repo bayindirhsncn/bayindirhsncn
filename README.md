@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bayindirhsncn
 - 👀 I’m interested in Front-End web development.
-- 🌱 I’m currently learning Front-End web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
